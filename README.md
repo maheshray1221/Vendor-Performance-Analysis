@@ -44,18 +44,13 @@ It involves **data ingestion**, **cleaning**, **exploratory data analysis (EDA)*
 <summary><b>Click to expand / collapse</b></summary>
 
 ```
-├── data/
-│   └── vendor_sales_summary.csv
-├── notebooks/
-│   ├── Exploratory Data Analysis.ipynb
-│   └── Vendor Performance Analysis.ipynb
-├── scripts/
-│   ├── get_vendor_summary.py
-│   └── ingestion_db.py
-├── dashboard/
-│   └── vendor_performance.pbix
-├── reports/
-│   └── Vendor Performance Report.pdf
+├── vendor_sales_summary.csv
+├── Exploratory Data Analysis.ipynb
+├── Vendor Performance Analysis.ipynb
+├── get_vendor_summary.py
+├── ingestion_db.py
+├── vendor_performance.pbix
+├── Vendor Performance Report.pdf
 └── README.md
 ```
 
